@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-0" value="PRENDER SEMAFORO 1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eMtRnyLg7qMY9w0upOtZ-3" target="eMtRnyLg7qMY9w0upOtZ-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;INICIO&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eMtRnyLg7qMY9w0upOtZ-6" target="eMtRnyLg7qMY9w0upOtZ-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="260" as="sourcePoint" />
+            <mxPoint x="380" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="354" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-6" value="PRENDER SEMAFORO 2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eMtRnyLg7qMY9w0upOtZ-12" target="eMtRnyLg7qMY9w0upOtZ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="400" as="sourcePoint" />
+            <mxPoint x="379" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-12" value="PRENDER SEMAFORO 3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eMtRnyLg7qMY9w0upOtZ-37" target="eMtRnyLg7qMY9w0upOtZ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354" y="530" as="sourcePoint" />
+            <mxPoint x="360" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eMtRnyLg7qMY9w0upOtZ-20" target="eMtRnyLg7qMY9w0upOtZ-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-20" value="UNA VEZ&lt;div&gt;ENCENDIDOS LOS&lt;/div&gt;&lt;div&gt;4 SEMAFOROS HACER&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="277.25" y="800" width="153.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-36" value="CONSTRUIR UN DIAGRAMA DE FLUJO QUE EXPLIQUE EL ALGORITMO DE FUNCIONAMIENTO&lt;div&gt;DE UN CRUCE DE SEMAFORO EL CUAL ESTA CONSTITUIDO POR 3 LUCES: ROJO, AMARILLO Y VERDE, ADEMAS LA LUZ DEL TIEMPO DEL CRUCE PEATONAL, EXPLIQUE CON LENGUAJE FORMAL CADA PASO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="340" width="236" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eMtRnyLg7qMY9w0upOtZ-37" target="eMtRnyLg7qMY9w0upOtZ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-37" value="PRENDER SEMAFORO 4" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eMtRnyLg7qMY9w0upOtZ-39" target="eMtRnyLg7qMY9w0upOtZ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-39" value="CADA SEMAFORO TIENE 3 LUCES&lt;div&gt;(ROJA, AMARILLA, VERDE Y EL CONTADOR DE TIEMPO DEL CRUCE PEATONAL)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="525" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eMtRnyLg7qMY9w0upOtZ-46" target="eMtRnyLg7qMY9w0upOtZ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-46" value="&amp;nbsp;SEMAFORO 1 Y 2&lt;div&gt;ENCIENDE LUZ VERDE&lt;/div&gt;&lt;div&gt;SEMAFORO 3 Y 4&lt;/div&gt;&lt;div&gt;ENCIENDE LUZ ROJA&lt;/div&gt;&lt;div&gt;(ANTES DE CAMBIAR A LUZ ROJA SE PRENDE LA LUZ AMARILLA)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="890" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eMtRnyLg7qMY9w0upOtZ-52" target="eMtRnyLg7qMY9w0upOtZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-52" value="DURACION DE LAS LUCES:&lt;div&gt;ROJA = 30&lt;div&gt;AMARILLA = 3&lt;/div&gt;&lt;div&gt;VERDE = 27&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="289" y="680" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="1090" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-56" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="630" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-58" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="760" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-59" value="3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="760" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-61" value="4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="680" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-62" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="680" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-71" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="730" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-72" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-73" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="650" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eMtRnyLg7qMY9w0upOtZ-76" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="770" width="20" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
